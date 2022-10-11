@@ -1,3 +1,7 @@
+## RICA: Evaluating Robust Inference Capabilities Based on Commonsense Axioms
+### [Paper](https://arxiv.org/pdf/2005.00782.pdf)
+### [Website](https://inklab.usc.edu/RICA/)
+
 1. For [Leaderboard](https://inklab.usc.edu/RICA/#exp) submission:
     1. Zero-Shot Setting:
         - Training data : None
